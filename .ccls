@@ -1,0 +1,4 @@
+clang
+-Iinclude
+-I../include
+-I./include
